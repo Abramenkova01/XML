@@ -1,6 +1,6 @@
  1. Создать внешний репозиторий c названием XML.
 
-        ![image](https://github.com/Abramenkova01/XML/assets/117236113/ff4a618c-630a-4edd-aa54-e62b348c5938)
+       ![image](https://github.com/Abramenkova01/XML/assets/117236113/ff4a618c-630a-4edd-aa54-e62b348c5938)
 
 
  2. Клонировать репозиторий XML на локальный компьютер.
