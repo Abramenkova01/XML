@@ -1,6 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
 <prefrences>
-	<[A[D[D[D[Derences>[B[D[D[D[Dfavourite_movie>intouchables[D[D[D[D[D[D[D[D[D[D[D[D[3~I[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D</favourite_movie>
+	<favourite_movie>intouchables</favourite_movie>
 	<favourite_TV_series>Friends</favourite_TV_series>
-	<favourite_food>sushi<favourite_food>
-	<favourite_time_of_year>summer</favourite_time_of_year>[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [D/favourite_food>[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D
+	<favourite_food>sushi</favourite_food>
+	<favourite_time_of_year>summer</favourite_time_of_year>
+	<favourite_food>sushi</favourite_food>
 	<country_to_travel>Canada</country_to_travel>
+</preferences>
+</root>
