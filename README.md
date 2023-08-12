@@ -126,17 +126,7 @@
 
 16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
 ![Снимок экрана (18)](https://github.com/Abramenkova01/XML/assets/117236113/2d19ce4f-fa91-4f10-aef5-744ecb350276)
-    <bug_report>
-      <id>27</id>
-        <Title>Buttons [search] / [burger menu] overlap the "How can we help you?" page title in the  "sic.zendesk.com"support page <Title>
-          <STR>
-             <step1>Navigate to capital.com</step1>
-             <step2>Tap button [Support]</step2>
-          </STR>
-       <AR>Buttons [search] / [burger menu] overlap the page title</AR>
-     <ER>Buttons [search] / [burger menu] are located according to page layout</ER>
-</bug_report>          
-          
+    
           
 
  38. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
