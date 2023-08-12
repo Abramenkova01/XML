@@ -7,7 +7,7 @@
 
         Marie Pyatrouna@DESKTOP-EDQMALU MINGW64 ~                     
         $ cd Git                                   
-(указываем в Git Bash папку на локальном компе)
+(указываем в Git Bash папку на локальном компе, в которую будем клонировать, которую мы предварительно создали)
 
      Marie Pyatrouna@DESKTOP-EDQMALU MINGW64 ~/Git
      $ git clone https://github.com/Abramenkova01/XML.git 
