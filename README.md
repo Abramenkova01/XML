@@ -126,8 +126,14 @@
 
 16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
 ![Снимок экрана (18)](https://github.com/Abramenkova01/XML/assets/117236113/2d19ce4f-fa91-4f10-aef5-744ecb350276)
-    
-          
 
- 38. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
- 39. Синхронизировать внешний и локальный репозиторий XML
+![image](https://github.com/Abramenkova01/XML/assets/117236113/5f47688e-7c40-48cc-a76d-bb0170680486)
+
+17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+
+18. Синхронизировать внешний и локальный репозиторий XML
+
+         Marie Pyatrouna@DESKTOP-EDQMALU MINGW64 ~/GIT/XML (main)
+         $ git pull
+
+ 
