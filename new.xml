@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-[D[3~<about me>
-<name>Mary<name>[D[D[D[D[D/name>
-age[D[D[D<age>38</age>
-<pet>none</pet>
-<desired_salary>1000<desired salary>[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [D/desired_salary>
-<about_me>[A[A[A[A[A[D[D[D[D_[B[B[B[B[B[D[D[D[D[D[D/about_me>
-
-
-
-[A[A[A[A[A[A[A[A[A[A
-[A[A[B
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 <about_me>
 	<name>Mary</name>
 	<age>38</age>
-	<pet>none</pt[Det>
-	d[D[3~<desired_salary>1000</desired salary>
-<about_me>[D[D[D[D[D[D[D[D[D/about_me>
+	<pet>none</pet>
+	<desired_salary>1000</desired salary>
+</about_me>
 </root>
 
